@@ -8,7 +8,7 @@ A NPC client for Android.
 
 ## 📦 How to Use / 使用方法
 
-1. Download the NPC binary for your target architecture from [nps](https://github.com/djylb/nps).
+1. Download the NPC binary for your target architecture from [NPS](https://github.com/djylb/nps).
 
 2. Rename it to `libnpc.so` and put it into:
 
@@ -34,5 +34,5 @@ A NPC client for Android.
 
 ## 📚 References / 参考项目
 
-- https://github.com/AceDroidX/frp-Android  
-- https://github.com/djylb/nps
+- [AceDroidX/frp-Android](https://github.com/AceDroidX/frp-Android)
+- [djylb/nps](https://github.com/djylb/nps)
