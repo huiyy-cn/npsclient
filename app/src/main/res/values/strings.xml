@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">NPS Client</string>
+    <string name="auto_start_switch">Startup at Boot</string>
+    <string name="start_switch">Start/Stop</string>
+    <string name="cmd_str">Command-line startup parameters</string>
+    <string name="about">About</string>
+    <string name="log">Log</string>
+    <string name="clear">Clear</string>
+    <string name="no_log">No Log</string>
+    <string name="save">Save</string>
+    <string name="notification_channel_name">NPC Background Service</string>
+    <string name="notification_channel_desc">NPC Background Service Notification</string>
+    <string name="service_start_toast">NPC Service Started</string>
+    <string name="service_stop_toast">NPC Service Stopped</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+</resources>
