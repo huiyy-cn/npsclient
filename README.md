@@ -6,6 +6,8 @@ A NPC client for Android.
 
 ---
 
+> 该应用仅在NPC代码发生变更时更新，不会追随NPS版本号更新
+
 ## 📦 How to Use / 使用方法
 
 1. Download the NPC binary for your target architecture from [NPS](https://github.com/djylb/nps).
